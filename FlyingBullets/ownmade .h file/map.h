@@ -1,6 +1,7 @@
 /*
 DEVS: SyefC/BoomPlay
 Mostly Important: "printing the map".
+welp it didnt work soooo somebody can teach me pls?
 */
 
 int x;
